@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"always\talways Async"
+			],
+			[
+				"clk_",
+				"clk_10k"
+			],
+			[
+				"always",
+				"always\talways Async"
+			],
+			[
+				"da",
+				"data_b"
+			],
+			[
+				"rd",
+				"rdclock"
+			],
+			[
+				"add",
+				"addr_out"
+			],
+			[
+				"ne",
+				"next_state"
+			],
+			[
+				"con",
+				"rom_control_out"
+			],
+			[
+				"out",
+				"out_q"
+			],
+			[
+				"rom",
+				"rom_control_out"
+			],
+			[
+				"ro",
+				"rom_control_out"
+			],
+			[
+				"c_",
+				"c_25M"
+			],
+			[
+				"counter",
+				"counter_h"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"ou",
+				"out_mux2_1"
+			],
+			[
+				"led",
+				"led_flow"
+			],
+			[
+				"clk",
+				"clk_1hz1"
+			],
+			[
+				"seq",
+				"seq_in"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"r",
+				"random\t$random()"
+			],
+			[
+				"for",
+				"forever"
+			],
+			[
+				"end",
+				"endtask"
+			],
+			[
+				"low",
+				"low_flow"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"mport urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.NET/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"mport urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"BracketHighlighter",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/fpga_ZX/run_hello2/code/freq.v",
+		"/E/fpga_ZX/run_hello2/code/top_seg7.v",
+		"/E/fpga_ZX/run_hello2/code/data_gen.v",
+		"/E/fpga_ZX/run_hello3/code/data_gen.v",
+		"/E/fpga_ZX/run_hello2/code/tb_top_seg7.v",
+		"/E/fpga_ZX/run_hello2/code/seg7.v",
+		"/C/Users/EasonIp/Desktop/ww.v",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/User/Verilog Gadget.sublime-settings",
+		"/E/fpga_ZX/and_gate/code/and_gate1_tb.v",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/Verilog Gadget/Verilog Gadget.sublime-settings",
+		"/E/fpga_ZX/pll/code/pll.v",
+		"/E/fpga_ZX/fre_divn/code/fre_divn.v",
+		"/E/fpga_ZX/fre_divn/code/fre_divn2.v",
+		"/E/fpga_ZX/rom/code/my_rom.qip",
+		"/E/fpga_ZX/rom/code/my_rom.v",
+		"/E/fpga_ZX/rom/code/my_rom_bb.v",
+		"/C/Users/EasonIp/Desktop/rom.mif",
+		"/E/fpga_ZX/rom/code/db/altsyncram_0091.tdf",
+		"/E/fpga_ZX/rom/code/rom_control.v",
+		"/E/fpga_ZX/ram/code/my_ram.v",
+		"/E/fpga_ZX/ram/code/my_ram.qip",
+		"/E/fpga_ZX/ram/code/tb_top_ram.v",
+		"/E/fpga_ZX/ram/code/top_ram.v",
+		"/C/Users/EasonIp/Documents/Tencent Files/437116601/FileRecv/ram_control.v",
+		"/E/fpga_ZX/rom/code/Hex1.hex",
+		"/E/fpga_ZX/rom/code/top_rom.v",
+		"/E/fpga_ZX/rom/code/tb_top_rom.v",
+		"/E/fpga_ZX/fre_divn/code/tb_fre_divn.v",
+		"/E/fpga_ZX/fre_divn/code/tb_fre_divn2.v",
+		"/E/fpga_ZX/pll/code/tb_pll.v",
+		"/E/fpga_ZX/ram/code/ram_control.v",
+		"/E/fpga_ZX/ram_2port/code/tb_top.v",
+		"/E/fpga_ZX/ram_2port/code/top.v",
+		"/E/fpga_ZX/pll2/code/mypll.v",
+		"/E/fpga_ZX/ram_2port/code/ram_control.v",
+		"/E/fpga_ZX/ram_2port/code/my_pll.v",
+		"/E/fpga_ZX/ram_2port/code/my_ram_2port.v",
+		"/E/fpga_ZX/ram_2port2/code/ram_control.v",
+		"/E/fpga_ZX/ram_2port2/code/top.v",
+		"/E/fpga_ZX/seg_1/code/seg_1.v",
+		"/E/fpga_ZX/seg7/code/top_seg7.v",
+		"/E/fpga_ZX/seg7/code/tb_top_seg7.v",
+		"/E/fpga_ZX/seg7/code/freq.v",
+		"/E/fpga_ZX/seg_1/code/tb_seg_1.v",
+		"/E/fpga_ZX/seg7/code/seg7.v",
+		"/E/fpga_ZX/run_hello/code/top.v",
+		"/E/fpga_ZX/run_hello/code/run_hello.v",
+		"/E/fpga_ZX/and_gate/code/top.v",
+		"/C/Users/EasonIp/Desktop/insert.v",
+		"/E/fpga_ZX/and_gate/code/and_gate.v",
+		"/E/fpga_ZX/and_gate/code/and_gate1.v",
+		"/E/fpga_tech/开发板资料/EP4CE10F17C8N.tcl",
+		"/C/Users/EasonIp/Desktop/Template.v",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/Verilog Gadget/README.md",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/Verilog Automatic/README.md",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/User/Verilog Automatic.sublime-settings",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/SystemVerilog/SystemVerilog.sublime-settings",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/Verilog Automatic/Default (Windows).sublime-keymap",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/E/fpga_ZX/run_hello/code/freq.v",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/User/SystemVerilog.sublime-settings",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Installed Packages/Verilog Gadget.sublime-package",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/Verilog Automatic/Verilog Automatic.sublime-settings",
+		"/C/Users/EasonIp/AppData/Roaming/Sublime Text 3/Packages/Verilog Gadget/Default (Windows).sublime-keymap",
+		"/C/Users/EasonIp/Desktop/header.v",
+		"/C/Users/EasonIp/Desktop/tb_freq.v",
+		"/E/fpga_ZX/run_hello2/code/freq_10k.v",
+		"/C/Users/EasonIp/Desktop/top_control.v",
+		"/E/fpga_ZX/rom/code/Verilog1.v",
+		"/E/fpga_tech/led_run/led_run/code/top.v",
+		"/E/fpga_ZX/pll/code/my_pll.v",
+		"/E/fpga_ZX/pll2/code/tb_pll.v",
+		"/E/fpga_ZX/pll/code/my_pll_bb.v",
+		"/E/fpga_ZX/pll/code/my_pll_inst.v",
+		"/E/fpga_ZX/led_flow/code/tb_clk_1hz.v",
+		"/E/fpga_tech/led_run/led_run/code/led_driver.v",
+		"/E/fpga_tech/led_run/led_run/code/led_run.v",
+		"/E/fpga_ZX/pll2/code/pll.v",
+		"/E/fpga_至芯科技/led_run/led_run/code/top_tb.v",
+		"/E/fpga_至芯科技/led_run/led_run/code/top.v",
+		"/E/fpga_至芯科技/day2/check_iloveyou/code/check_iloveyou.v",
+		"/E/fpga_至芯科技/led_run/led_run/code/led_run.v",
+		"/E/fpga_至芯科技/led_run/led_run/code/freq.v",
+		"/E/fpga_至芯科技/day2/check_iloveyou/code/check_iloveyou_2state.v",
+		"/E/fpga_ZX/nux/code/mux2_1.v",
+		"/E/fpga_ZX/nux/code/mux2_1_4bit.v",
+		"/E/fpga_ZX/nux/code/mux3_8.sv",
+		"/E/fpga_ZX/nux/code/mux3_8.v",
+		"/E/fpga_ZX/counter/code/counter_tb.v",
+		"/E/fpga_ZX/counter/code/counter_tb2.v",
+		"/E/fpga_ZX/and_gate/code/Verilog3.v",
+		"/E/fpga_ZX/counter/code/counter2.v",
+		"/E/fpga_ZX/counter/code/counter_tb1.v",
+		"/E/fpga_ZX/counter/code/counter1.v",
+		"/E/fpga_ZX/counter/code/counter.v",
+		"/E/fpga_ZX/check_iloveyou/code/check_iloveyou.v",
+		"/E/fpga_ZX/check_iloveyou/code/tb_check_iloveyou.v",
+		"/E/fpga_ZX/check_iloveyou/code/tb_check_iloveyou0.v",
+		"/E/fpga_ZX/check_iloveyou/code/check_iloveyou0.v",
+		"/E/fpga_ZX/check_iloveyou/code/check_iloveyou_2state.v",
+		"/E/fpga_ZX/seq_det/code/tb_seq_det.v",
+		"/E/fpga_ZX/led_flow/code/clk_1hz.v",
+		"/E/fpga_ZX/nux/code/tb_mux2_1.v",
+		"/E/fpga_ZX/nux/code/tb_mux2_1_4bit.v",
+		"/E/fpga_ZX/nux/code/tb_mux3_8.v",
+		"/E/fpga_ZX/seq_det/code/seq_det.v",
+		"/E/fpga_ZX/led_flow/code/led_flow.v",
+		"/E/fpga_至芯科技/开发板资料/EP4CE10F17C8N.tcl",
+		"/E/fpga_ZX/led_flow/code/tb_led_flow2.v",
+		"/E/fpga_ZX/led_flow/code/tb_top.v",
+		"/E/fpga_ZX/led_flow/code/tb_led_flow.v",
+		"/E/fpga_ZX/led_flow/code/top.v",
+		"/E/fpga_ZX/led_flow/code/led_flow2.v",
+		"/E/fpga_至芯科技/开发板资料/新建文本文档.tcl",
+		"/E/fpga_ZX/led_flow/code/clk_1hz",
+		"/E/fpga_ZX/check_iloveyou/code/check_iloveyou_2state_tb.v"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"输入的4位数据",
+			"data_b",
+			"rdaddress",
+			"data",
+			"wren",
+			"wraddress",
+			"data_a",
+			"wraddress",
+			"data",
+			"addr",
+			";\n",
+			"d_8",
+			"\t\n",
+			"Goto",
+			"Alt",
+			"word"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "run_hello.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

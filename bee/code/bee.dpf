@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="rs232_rx" source="Pin Planner" >
+		</pin>
+		<pin name="rs232_tx" source="Pin Planner" >
+		</pin>
+		<pin name="LED[0]" source="Pin Planner" >
+		</pin>
+		<pin name="LED[1]" source="Pin Planner" >
+		</pin>
+		<pin name="LED[2]" source="Pin Planner" >
+		</pin>
+		<pin name="LED[3]" source="Pin Planner" >
+		</pin>
+		<pin name="ps2_sclk" source="Pin Planner" >
+		</pin>
+		<pin name="ps2_sda" source="Pin Planner" >
+		</pin>
+		<pin name="vga_vs" source="Pin Planner" >
+		</pin>
+		<pin name="vga_hs" source="Pin Planner" >
+		</pin>
+		<pin name="vga_b[1]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_b[0]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_g[2]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_g[1]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_g[0]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_r[2]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_r[1]" source="Pin Planner" >
+		</pin>
+		<pin name="vga_r[0]" source="Pin Planner" >
+		</pin>
+		<pin name="key[0]" source="Pin Planner" >
+		</pin>
+		<pin name="key[1]" source="Pin Planner" >
+		</pin>
+		<pin name="key[2]" source="Pin Planner" >
+		</pin>
+		<pin name="key[3]" source="Pin Planner" >
+		</pin>
+		<pin name="eeprom_scl" source="Pin Planner" >
+		</pin>
+		<pin name="eeprom_sda" source="Pin Planner" >
+		</pin>
+		<pin name="sel[2]" source="Pin Planner" >
+		</pin>
+		<pin name="sel[1]" source="Pin Planner" >
+		</pin>
+		<pin name="sel[0]" source="Pin Planner" >
+		</pin>
+		<pin name="seg[0]" source="Pin Planner" >
+		</pin>
+		<pin name="seg[1]" source="Pin Planner" >
+		</pin>
+		<pin name="seg[2]" source="Pin Planner" >
+		</pin>
+		<pin name="seg[3]" source="Pin Planner" >
+		</pin>
+		<pin name="seg[4]" source="Pin Planner" >
+		</pin>
+		<pin name="seg[5]" source="Pin Planner" >
+		</pin>
+		<pin name="seg[6]" source="Pin Planner" >
+		</pin>
+		<pin name="seg[7]" source="Pin Planner" >
+		</pin>
+		<pin name="a[0]" source="Pin Planner" >
+		</pin>
+		<pin name="a[1]" source="Pin Planner" >
+		</pin>
+		<pin name="a[2]" source="Pin Planner" >
+		</pin>
+		<pin name="a[3]" source="Pin Planner" >
+		</pin>
+		<pin name="a[4]" source="Pin Planner" >
+		</pin>
+		<pin name="a[5]" source="Pin Planner" >
+		</pin>
+		<pin name="a[6]" source="Pin Planner" >
+		</pin>
+		<pin name="a[7]" source="Pin Planner" >
+		</pin>
+		<pin name="a[8]" source="Pin Planner" >
+		</pin>
+		<pin name="a[9]" source="Pin Planner" >
+		</pin>
+		<pin name="a[10]" source="Pin Planner" >
+		</pin>
+		<pin name="a[11]" source="Pin Planner" >
+		</pin>
+		<pin name="ba[0]" source="Pin Planner" >
+		</pin>
+		<pin name="ba[1]" source="Pin Planner" >
+		</pin>
+		<pin name="dom[1]" source="Pin Planner" >
+		</pin>
+		<pin name="dom[0]" source="Pin Planner" >
+		</pin>
+		<pin name="scke" source="Pin Planner" >
+		</pin>
+		<pin name="sclk" source="Pin Planner" >
+		</pin>
+		<pin name="nwe" source="Pin Planner" >
+		</pin>
+		<pin name="nscas" source="Pin Planner" >
+		</pin>
+		<pin name="ncras" source="Pin Planner" >
+		</pin>
+		<pin name="nscs" source="Pin Planner" >
+		</pin>
+		<pin name="dq[0]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[1]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[2]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[3]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[4]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[5]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[6]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[7]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[8]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[9]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[10]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[11]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[12]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[13]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[14]" source="Pin Planner" >
+		</pin>
+		<pin name="dq[15]" source="Pin Planner" >
+		</pin>
+		<pin name="u_ifclk" source="Pin Planner" >
+		</pin>
+		<pin name="usb_address[1]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_address[0]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[15]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[14]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[13]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[12]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[11]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[10]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[9]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[8]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[7]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[6]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[5]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[4]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[3]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[2]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[1]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_data[0]" source="Pin Planner" >
+		</pin>
+		<pin name="usb_flagb" source="Pin Planner" >
+		</pin>
+		<pin name="usb_flagc" source="Pin Planner" >
+		</pin>
+		<pin name="usb_sloe_n" source="Pin Planner" >
+		</pin>
+		<pin name="usb_slrd_n" source="Pin Planner" >
+		</pin>
+		<pin name="usb_slwr_n" source="Pin Planner" >
+		</pin>
+		<pin name="col[0]" source="Pin Planner" >
+		</pin>
+		<pin name="col[1]" source="Pin Planner" >
+		</pin>
+		<pin name="col[2]" source="Pin Planner" >
+		</pin>
+		<pin name="col[3]" source="Pin Planner" >
+		</pin>
+		<pin name="row[0]" source="Pin Planner" >
+		</pin>
+		<pin name="row[1]" source="Pin Planner" >
+		</pin>
+		<pin name="row[2]" source="Pin Planner" >
+		</pin>
+		<pin name="row[3]" source="Pin Planner" >
+		</pin>
+		<pin name="d[7]" source="Pin Planner" >
+		</pin>
+		<pin name="d[6]" source="Pin Planner" >
+		</pin>
+		<pin name="d[5]" source="Pin Planner" >
+		</pin>
+		<pin name="d[4]" source="Pin Planner" >
+		</pin>
+		<pin name="d[3]" source="Pin Planner" >
+		</pin>
+		<pin name="d[2]" source="Pin Planner" >
+		</pin>
+		<pin name="d[1]" source="Pin Planner" >
+		</pin>
+		<pin name="d[0]" source="Pin Planner" >
+		</pin>
+		<pin name="e" source="Pin Planner" >
+		</pin>
+		<pin name="r_s" source="Pin Planner" >
+		</pin>
+		<pin name="r_w" source="Pin Planner" >
+		</pin>
+		<pin name="po_res" source="Pin Planner" >
+		</pin>
+		<pin name="po_cs" source="Pin Planner" >
+		</pin>
+		<pin name="po_rs" source="Pin Planner" >
+		</pin>
+		<pin name="po_scl" source="Pin Planner" >
+		</pin>
+		<pin name="po_sda" source="Pin Planner" >
+		</pin>
+		<pin name="sd[0]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[1]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[2]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[3]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[4]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[5]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[6]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[7]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[8]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[9]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[10]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[11]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[12]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[13]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[14]" source="Pin Planner" >
+		</pin>
+		<pin name="sd[15]" source="Pin Planner" >
+		</pin>
+		<pin name="cmd" source="Pin Planner" >
+		</pin>
+		<pin name="ior" source="Pin Planner" >
+		</pin>
+		<pin name="iow" source="Pin Planner" >
+		</pin>
+		<pin name="cs" source="Pin Planner" >
+		</pin>
+		<pin name="rst" source="Pin Planner" >
+		</pin>
+		<pin name="int" source="Pin Planner" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>

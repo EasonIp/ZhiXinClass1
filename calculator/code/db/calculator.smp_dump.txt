@@ -1,0 +1,22 @@
+
+State Machine - |top_calculator|key_scan:inst_key_scan|state
+Name state.s0 state.s2 state.s1 
+state.s0 0 0 0 
+state.s1 1 0 1 
+state.s2 1 1 0 
+
+State Machine - |top_calculator|seg7_v0:inst_seg7_v0|state
+Name state.s5 state.s4 state.s3 state.s2 state.s1 state.s0 
+state.s0 0 0 0 0 0 0 
+state.s1 0 0 0 0 1 1 
+state.s2 0 0 0 1 0 1 
+state.s3 0 0 1 0 0 1 
+state.s4 0 1 0 0 0 1 
+state.s5 1 0 0 0 0 1 
+
+State Machine - |top_calculator|cal:inst_cal|current_stage
+Name current_stage.S3 current_stage.S2 current_stage.S1 current_stage.S0 
+current_stage.S0 0 0 0 0 
+current_stage.S1 0 0 1 1 
+current_stage.S2 0 1 0 1 
+current_stage.S3 1 0 0 1 
